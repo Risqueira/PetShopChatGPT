@@ -6,6 +6,15 @@ PetLux é um site institucional para uma Pet Shop Premium especializada em Banho
 
 O objetivo do site é apresentar os serviços da empresa e facilitar o agendamento online de atendimentos para clientes.
 
+OBS: A produção inteira desse projeto foi feita pelo ChatGPT para fins de estudos do Têcnico de TI, aonde eu escolhi o ChatGPT e Gemini para fazer uma comparação do qual entregaria um melhor resultado com o mesmo prompt. O repositorio logo abaixo desse no meu perfil será do Gemini.
+
+Prompt Site Pet Shop de Alto Padrão (especialista em Banho e Tosa)
+
+No bloco [CONTEXTO]: Adicione que o site deve focar na experiência do usuário (UX). Os cards de serviços devem exibir claramente o tempo estimado de cada procedimento (Ex: Banho e Tosa Higiênica - 1h30) e um selo de "Mais Vendido" no serviço principal para induzir o cliente a escolher aquela opção. Adicionar uma seção de comentários de clientes que pagaram os serviços da pet shop;
+No bloco [RESTRIÇÕES DE CSS]: Exija que a interface use técnicas modernas de tipografia (fontes sem serifa limpas) e que as cores neon dos botões tenham um efeito de pulsação suave em CSS (keyframes) para guiar o olhar do usuário até a ação de agendar. Como o site e sobre uma Pet Shop cores claras seria uma escolha ideal para cor padrão, logo crie um root para cores do tema claro e tema escuro;
+No bloco [RESTRIÇÕES DE JS]: Adicione uma regra de segurança e UX. No formulário de agendamento, o JavaScript deve impedir que o usuário selecione uma data anterior ao dia de hoje no calendário. Além disso, crie uma máscara simples no campo de telefone enquanto o usuário digita. Adicionar botão para mudança de tema claro e escuro;
+quero que monte os codigos de HTML, CSS e JS. Como tambem montar um esquema de como ficou as organizações de arquivos nas pastas .
+
 ---
 
 ## ✨ Funcionalidades
