@@ -6,7 +6,7 @@ PetLux é um site institucional para uma Pet Shop Premium especializada em Banho
 
 O objetivo do site é apresentar os serviços da empresa e facilitar o agendamento online de atendimentos para clientes.
 
-OBS: A produção inteira desse projeto foi feita pelo ChatGPT para fins de estudos do Têcnico de TI, aonde eu escolhi o ChatGPT e Gemini para fazer uma comparação do qual entregaria um melhor resultado com o mesmo prompt. O repositorio logo abaixo desse no meu perfil será do Gemini.
+OBS: A produção inteira desse projeto foi feita pelo ChatGPT para fins de estudos do Têcnico de TI, aonde eu escolhi o ChatGPT e Gemini para fazer uma comparação do qual entregaria um melhor resultado com o mesmo prompt.
 
 Prompt Site Pet Shop de Alto Padrão (especialista em Banho e Tosa)
 
